@@ -3,7 +3,8 @@
 import os
 os.system("clear")
 
-print("\t\t\t THIS IS TRAIN WHO ARE YOU \t\t\t")
+print("\t\t\t THIS IS Collecting Image for Train and Test\t\t\t")
+print("By www.github.com/amantiwari1")
 print("_________________________________________________________")
 n = int(input("   how many person or Objects :  "))
 max1 = int(input("  how many image do you want for Train (100 is best) :  "))
