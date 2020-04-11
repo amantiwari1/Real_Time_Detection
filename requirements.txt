@@ -1,0 +1,5 @@
+tensorflow==2.1.0
+opencv-python==4.1.1.26
+opencv-contrib-python==4.1.1.26
+numpy==1.16.2
+keras==2.3.1
