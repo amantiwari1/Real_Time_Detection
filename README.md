@@ -12,8 +12,10 @@ git clone https://github.com/amantiwari1/Real_Time_Detection.git
 cd Real_Time_Detection
 ```
 
-## step 3 : 
+## step 3 :
 ```
+python -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
