@@ -1,6 +1,6 @@
 # Real_Time_Detection
 
-This is Real Time Face Detection using CNN
+## This is Real Time Face with Collect Image automatically by CV2 and split it into Training and Testing for evaluate. It is used by CNN model
 
 ## step 1 : 
 ```
